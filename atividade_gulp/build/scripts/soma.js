@@ -1,0 +1,1 @@
+var numero1=23,numero2=54;function somar(r,o){return r+o}module.exports=somar;
